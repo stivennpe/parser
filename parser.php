@@ -194,7 +194,7 @@ function readTSV($path, $countsFile){
 Testing each function:
 
 readCSV("example_1.csv", "countone.csv"); => Success
-readTSV("products_tab_separated.tsv", "counttwo.tsv"); =>Success
+readTSV("products.tsv", "counttwo.tsv"); =>Success
 readJSON("test.json", "countthree.csv"); => Sucess
 readXML("test.xml", "countfour.csv"); => Sucess
 */
